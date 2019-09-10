@@ -1,11 +1,11 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
-email: your-email@domain.com
-brand: Your Name
-headline: Inventor, Engineer and Futurist
+title: Day la blog cua Neko
+email: neko@hihi.com
+brand: Neko
+headline: Traveler and Cutest
 description: > # this means to ignore newlines until "baseurl:"
-  New Site
+  Day la blog moi tao cua Meo nha
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
