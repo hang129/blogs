@@ -1,11 +1,11 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Day la blog cua Neko
+title: Blog cua Meo 
 email: neko@hihi.com
 brand: Neko
-headline: Traveler and Cutest
+headline: Instagramer and Daydreamer 
 description: > # this means to ignore newlines until "baseurl:"
-  Day la blog moi tao cua Meo nha
+  Blog cua Meo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 copyright: 2016 Whatever Company, Inc. All Rights Reserved.
@@ -17,8 +17,8 @@ markdown: kramdown
 snapwidget: 247552
 
 # Contacts
-email: your.name@gmail.com
-phone: +1-800-555-2016
+email: sbrina1995@gmail.com
+
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
